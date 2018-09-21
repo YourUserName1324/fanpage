@@ -4,6 +4,7 @@ html {
 
 body {
     height: 100%;
+    background-color: #24c7c2;
     
 }
 a {
@@ -16,4 +17,12 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.navbar { 
+    display: flex;
+    justify-content: space-around;
+}
+.thumbnail-image {
+    width: 60px;
+    height: 60px;
 }
